@@ -1,2 +1,1 @@
-# JS-Ticket-counter-
-This is a simple usage of JavaScript for building Ticket counter app.
+You can visit this app using the following link:
